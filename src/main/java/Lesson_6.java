@@ -16,6 +16,8 @@ public class Lesson_6 {
         cat.jump_over(1); //true
         cat.jump_over(5); //false
         cat.swim(5); ///false
+        cat.swim(10); ///false
+
 
         dog.run(1000); //false
         dog.run(300); //true
